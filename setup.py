@@ -11,7 +11,7 @@ setuptools.setup(
     description="Package to download videos",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/vvadithya/yt_custom_pip_module",
     packages=setuptools.find_packages(),
     install_requires  = ['Click','requests',...], # List all your dependencies inside the list
     license = 'MIT'
