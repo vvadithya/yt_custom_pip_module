@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="yt_downloaderr",
+    name="yt",
     version="0.0.1",
     author="Adithya",
     author_email="sampleemail@gmail.com",
